@@ -2,6 +2,10 @@ Rencana Belajar
 -Algoritma
 -HTML
 -CSS
+ >Tailwind
 -Javascript
+ >Angular
+ >React
 -PHP
+ >Laravel
 -Python

@@ -1,0 +1,7 @@
+Rencana Belajar
+-Algoritma
+-HTML
+-CSS
+-Javascript
+-PHP
+-Python

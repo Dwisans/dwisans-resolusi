@@ -1,4 +1,5 @@
 Rencana Belajar
+-Algoritma
 -HTML
 -CSS
 -Javascript

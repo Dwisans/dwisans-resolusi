@@ -2,6 +2,9 @@ Rencana Belajar
 -Algoritma
 -HTML
 -CSS
+ >Bootstrap
 -Javascript
+ >Angular
+ >React
 -PHP
--Python
+ >Laravel
